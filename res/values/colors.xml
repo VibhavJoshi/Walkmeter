@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="habits_light_green">#c5d9a6</color>
+    <color name="habits_green">#b5c59b</color>
+    <color name="habits_dark_green">#94a47d</color>
+    <color name="gray_background">#f2f2f2</color>
+    <color name="gray_foreground">#e6e6e6</color>
+    <color name="dark_gray_borders">#969696</color>
+    <color name="cal_green">#92bd6d</color>
+    <color name="cal_dark_green">#598527</color>
+    <color name="fat_orange">#faa74a</color>
+    <color name="fat_dark_orange">#f6821f</color>
+    <color name="quickbar_text">#97aa86</color>
+    <color name="warning_yellow">#fee369</color>
+    <color name="journal_pink">#facccc</color>
+    <color name="journal_light_pink">#fce0e0</color>
+    <color name="tag_background">#bb000000</color>
+    <color name="tag_background_selected">#ff000000</color>
+    <color name="tag_background_dragged">#90000000</color>
+    <color name="tutorial_overlay">#b0000000</color>
+    <color name="dairy_ideal">#3fa9f5</color>
+    <color name="dairy_consumed">#c5e5fc</color>
+    <color name="proteins_ideal">#ff931e</color>
+    <color name="proteins_consumed">#ffdebb</color>
+    <color name="grains_ideal">#ffe91f</color>
+    <color name="grains_consumed">#fff8bb</color>
+    <color name="fruits_ideal">#7ac943</color>
+    <color name="fruits_consumed">#d7efc6</color>
+    <color name="vegetables_ideal">#f48587</color>
+    <color name="vegetables_consumed">#fcdadb</color>
+    <color name="slider_background">#4d4d4d</color>
+    <color name="slider_background_pressed">#808080</color>
+    <color name="slider_background_selected">#666666</color>
+    <color name="slider_text">#b3b3b3</color>
+    <color name="slider_text_pressed">#ffffff</color>
+    <color name="slider_text_selected">#f2f2f2</color>
+
+</resources>

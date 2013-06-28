@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+ 	xmlns:app="http://schemas.android.com/apk/res/com.janacare.habitsmock" 
+    android:id="@+id/rlWindowTitle"
+    android:layout_width="fill_parent"
+    android:layout_height = "50dp"
+    android:background="@drawable/header"
+    android:gravity="center_vertical"
+    android:orientation="horizontal" >"
+    
+    <ImageView
+        android:id="@+id/walking_image"
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:src="@drawable/walkingman_title" />
+
+    <TextView
+        android:id="@+id/tvwindow_tite"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="20dp"
+        android:layout_toRightOf="@+id/walking_image"
+        android:text="Walkmeter"
+        android:textColor="#ffffff"
+        android:textSize="25dp" />
+
+</RelativeLayout>
